@@ -11,4 +11,7 @@ This specialization covered the topics such as
 - Natural Language Processing in TensorFlow
 
 - Sequences, Time Series and Prediction
+
+<br>
+
 ![Specialiization Certification](https://raw.githubusercontent.com/SivadineshPonrajan/Tensorflow-In-Practice/master/Tensorflow%20in%20Practice%20Specialization.png)
